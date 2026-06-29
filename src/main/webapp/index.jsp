@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewporti" content="width=device-width,initial-scale=1" />
+    <meta name="viewportt" content="width=device-width,initial-scale=1" />
     <title>MyShop — Modern E‑Commerce</title>
 
     <!-- Fonts & Icons -->
